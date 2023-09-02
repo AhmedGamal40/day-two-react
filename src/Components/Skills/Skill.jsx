@@ -1,7 +1,7 @@
 function Skill ({Name,One,Two,Three,Four}){
     return(
         
-          <div className="col-md-4 mt-2">
+          <div className="col-md-6 mt-2">
             <div className="card">
               <div className="card-body bg-dark"style={{height:'200px'}}>
                 <h3 className="text-center text-white">{Name}</h3>

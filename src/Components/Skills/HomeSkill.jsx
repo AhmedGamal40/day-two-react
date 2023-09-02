@@ -10,7 +10,7 @@ function HomeSkill (){
         <>
            <div className="skills-section">
        <div className="container">
-          <h2 className="text-center text-warning p-5">Skills</h2>
+          <h2 className="text-center text-warning p-5">My Services</h2>
          <div className="row">
         {
     skills.map((skill)=>{
